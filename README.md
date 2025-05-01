@@ -1,8 +1,12 @@
-# Calculadora Streamlit
+# Calculadora Python
 
-Uma calculadora moderna e interativa desenvolvida com Python e Streamlit.
+Uma calculadora moderna e interativa com duas versões:
+1. Interface de terminal colorida (branch: terminal)
+2. Interface web com Streamlit (branch: main)
 
-## Funcionalidades
+## Versão Web (Streamlit)
+
+### Funcionalidades
 
 - Operações básicas:
   - Adição (+)
@@ -13,7 +17,7 @@ Uma calculadora moderna e interativa desenvolvida com Python e Streamlit.
   - Raiz Quadrada (√)
   - Porcentagem (%)
 
-## Características
+### Características
 
 - Interface web moderna e responsiva
 - Botões coloridos e interativos
@@ -21,7 +25,7 @@ Uma calculadora moderna e interativa desenvolvida com Python e Streamlit.
 - Display com fonte monoespaçada
 - Suporte a números decimais
 
-## Como usar
+### Como usar a versão Web
 
 1. Certifique-se de ter Python instalado
 2. Instale as dependências necessárias:
@@ -37,8 +41,9 @@ Uma calculadora moderna e interativa desenvolvida com Python e Streamlit.
 ## Requisitos
 
 - Python 3.x
-- Streamlit
+- Biblioteca colorama (versão terminal)
+- Streamlit (versão web)
 
 ## Autor
 
-- Marivaldor 
+- Marivaldor
